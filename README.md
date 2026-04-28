@@ -1,4 +1,4 @@
-# insercion-laboral-smx
+# Insercion-laboral-smx
 Repositorio del proyecto de Inserción Laboral del ciclo SMX1, basado en una oferta de Técnico/a de Soporte Microinformático.
 # 🖥️ Proyecto de Inserción Laboral – SMX1
 
