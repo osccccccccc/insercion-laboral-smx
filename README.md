@@ -80,7 +80,3 @@ Soy estudiante de 1º de SMX y actualmente realizo prácticas en **Life Informá
 
 ---
 
-## 🙌 Créditos
-Trabajo realizado para el módulo de **Inserción Laboral** del ciclo **SMX1**.
-
----
