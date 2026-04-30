@@ -1,8 +1,4 @@
 # Insercion-laboral-smx
-Repositorio del proyecto de Inserción Laboral del ciclo SMX1, basado en una oferta de Técnico/a de Soporte Microinformático.
-# 🖥️ Proyecto de Inserción Laboral – SMX1
-
-Este repositorio forma parte del trabajo de **Inserción Laboral** del ciclo **SMX1**. Incluye la presentación, la tarjeta Carrd, el speech, la bio y la documentación basada en una oferta real de Técnico/a de Soporte Microinformático.
 
 ---
 
