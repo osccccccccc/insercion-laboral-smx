@@ -71,12 +71,3 @@ Soy estudiante de 1º de SMX y actualmente realizo prácticas en **Life Informá
 
 ---
 
-## 📂 Contenido del repositorio
-- Presentación estilo Canva.  
-- Tarjeta Carrd.  
-- Bio para GitHub.  
-- Speech de presentación.  
-- Documentación del puesto.  
-
----
-
